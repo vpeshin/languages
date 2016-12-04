@@ -99,13 +99,13 @@ Two blocks of fire.
 焱 (yàn) - Flames, sparkle.
 
 焚 (fén) - To burn, burning.  
-Fire (火) and trees (木). A fire cannot burn without fuel.
+Fire (火) and Trees (木). A fire cannot burn without fuel.
 
 伙 (huǒ) - Group, companion, partnership.  
-Fire + person.
+Fire + Person.
 
 啖 (dàn) - To eat.  
-Fire + mouth. Food is spicy.
+Fire + Mouth. Food is spicy.
 
 ### Tree
 
@@ -130,15 +130,15 @@ Tree (木) with a short horizontal line near the top. It looks very similar to E
 It looks very similar to a window. Look outside and see the sun.
 
 昌 (chāng) - Prosperous.  
-Say (曰) + sun (日).
+Say (曰) + Sun (日).
 
 晶 (jīng) - Sparkling.
 
 旦 (dàn) - Sunrise.  
-Sun + one.  The sun rising above the line of the horizon.
+Sun + One.  The sun rising above the line of the horizon.
 
 早 (zǎo) - Early morning.
-Sun + ten. The first ray of morning sun shining across the horizon.
+Sun + Ten. The first ray of morning sun shining across the horizon.
 
 白 (bái) - White.
 
@@ -150,19 +150,19 @@ Looks like the profile of a man walking.
 从 (cóng) - To follow.
 
 体 (tǐ) - Body.  
-Person + foundation. The foundation of a human is their body.
+Person + Foundation. The foundation of a human is their body.
 
 大 (dà) - Big.  
-Person + one. A man stretching his arms wide saying, "it was this big".
+Person + One. A man stretching his arms wide saying, "it was this big".
 
 夫 (fū) - Man.  
-Big (大) with a line representing the traditional hairpins in an adult man’s topknot.
+Big with a line representing the traditional hairpins in an adult man’s topknot.
 
 天 (tiān) - Sky, overead.  
-Big (大) with a line above it, representing the level above man and earth, hence why it can also mean heavenly.
+Big with a line above it, representing the level above man and earth, hence why it can also mean heavenly.
 
 众 (zhòng) - Crowd.  
-Two's company and three's a crowd.
+"Two's company and three's a crowd."
 
 犬 (quǎn) - Dog.  
 Big with a tail.
@@ -171,7 +171,7 @@ Big with a tail.
 Big and a stroke under the character suggesting something even bigger.
 
 休 (xiū) - Rest, stop.  
-Person + tree. A man relaxing against a tree.
+Person + Tree. A man relaxing against a tree.
 
 ### Mouth
 
@@ -181,25 +181,108 @@ Person + tree. A man relaxing against a tree.
 Mouths represent three people and their views.
 
 呆 (dāi) - Idiot.  
-Mouth + tree. Talking tree looks idiotic.
+Mouth + Tree. Talking tree looks idiotic.
 
 咄 (duō) - Cry in anger.  
-Mouth + to get out.
+Mouth + To get out.
 
 因 (yīn) - To cause, because.  
-Surround + big.
+Surround + Big.
 
 杏 (xìng) - Aprocot, almond.  
-Tree + mouth.
+Tree + Mouth.
 
 困 (kùn) - Enclosure, to trap, sleepy, difficult.  
-Surround (mouth?) + wood.
+Surround (mouth?) + Wood.
 
 回 (huí) - To return, to reply.  
-Mouth + surround. Water whirling in a circle.
+Mouth + Surround. Water whirling in a circle.
 
 囚 (qiú) - To imprison, prisoner.  
-Person + surround.
+Person + Surround.
 
 味 (wèi) - Taste, smell.  
-Mouth + not yet. You smell food when it is not yet in your mouth.
+Mouth + Not yet. You smell food when it is not yet in your mouth.
+
+### Water
+
+水 (shuǐ) - Water.
+
+淋 (lìn) - To drench (промокать), drip.  
+Water (氵) + Wood (林). Just remember that after the rain, water drips off of all of the trees in the wood.
+
+沫 (mò) - Foam.  
+Water (氵) + End (末). Foam is the last form of water as it crashes onto the shore.
+
+淡 (dàn) - Plain, bland.
+
+沐 (mù) - Wash.  
+Imagine rain washing the trees in a storm.
+
+泊 (bó) - To anchor, to moor.  
+Water (氵) + White (白).
+
+### Moon
+
+月 (yuè) - Moon.  
+A visual counterpart to Sun (日).
+
+朋 (péng) - Friend.  
+
+明 （míng) - Bright.  
+Sun and Moon shine together.
+
+肤 (fū) - Skin.  
+Flesh (月) + Man (夫). The flesh of a man is his skin. (The building block for flesh looks indistinguishable from the building block for moon when it is used in a compound.)
+
+### Woman
+
+女 (nǔ) - Woman.
+
+姦 (jiān) - Adultery.  
+Any man with 3 women is cheating on someone.
+
+她 (tā) - She, her.  
+Woman (女) + Also (也).
+
+安 (ān) - Peaceful.  
+Woman (女) + Roof (宀).
+
+囡 (nān) - Daughter.  
+Woman (女) + Surround (口). A woman surrounded by her house and her family (to keep her skin pale and to protect her modesty).
+
+如 (rú) - To obey.  
+Woman (女) + Mouth (口). A woman in ancient China didn't speak, she obeyed.
+
+姻 (yīn) - Marriage.
+Woman (女) and Reason (因). A woman’s purpose was marriage and bearing children.
+
+### Roof
+
+宀 (mián) - Roof.
+
+牢 (láo) - Prison.  
+Roof (宀) + Cow (牛).
+
+家 (jiā) - Home.  
+Roof (宀) + Pig (豕). In the ancient China, humans would raise their pigs in their houses to keep them safe.
+
+### Jade
+
+玉 (yù) - Jade.  
+A bottom stroke represents Earth, a top stroke represents Heaven and a middle stroke represents Heaven’s essence on Earth.
+
+主 (zhǔ) - Master.  
+Jade with a small dash above it. Jade was an extremely expensive and highly valued material worn traditionally by nobility and royalty.
+
+国 (guó) - Country.  
+Jade (玉) + Surround (囗). China is the country of Jade.
+
+柱 (zhù) - Pillar.  
+Jade (玉) + Tree (木).
+
+王 (wáng) - King.  
+Jade was worn by kings and nobles and represented the virtues of beauty, grace and purity.
+
+全 (quán) - Whole.  
+Jade (玉) + Person (入). If you had Jade under your roof you were whole in terms of possessions.
